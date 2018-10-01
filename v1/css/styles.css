@@ -52,11 +52,7 @@ html {
   text-transform: uppercase;
   letter-spacing: .4rem;
   font-weight: 700;
-  background-image: linear-gradient(to right, #2998ff, #5643fa);
-  color: transparent;
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: #fff;
+  color: #ccc;
   transition: all .2s; }
   @media (max-width: 66.25em) {
     .heading--secondary {
